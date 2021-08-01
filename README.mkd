@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @lasersPew
+- 👋 Hi, I'm John Carlo Santos aka lasersPew, 14 years old, HS student and a developer.`
 - 👀 I’m interested in *Cloud and Clustered Computing*.
 - 🌱 I’m currently learning **Python** and **C++**.
 
-    $ whoami
-    I am John Carlo Santos aka lasersPew, 14 years old, student and a developer.
-
+    
 # Languages and Tools
 [<img align="left" alt="Python 3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />](https://python.org)
 [<img align="left" alt="ZSH" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />](https://ohmyz.sh)
