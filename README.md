@@ -1,7 +1,6 @@
-### 👋 Hi, I'm John Carlo Santos aka lasersPew, 14 years old, HS student and a developer.`
+### 👋 Hi, I'm John Carlo Santos aka lasersPew, 15 years old, HS student and a developer.`
 - 👀 I’m interested in *Cloud and Clustered Computing*.
-- 🌱 I’m currently learning **Python** and **C++**.
-- 👯 I’m looking to collaborate with other developers.
+- 🌱 I’m currently learning **Object-oriented Programming** and **Async Programming**.
     
 # Languages and Tools
 [<img align="left" alt="Python 3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />](https://python.org)
