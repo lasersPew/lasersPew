@@ -1,3 +1,13 @@
+# Yo, I'm Carlo.
+
+<a href="https://github.com/lasersPew#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=lasersPew&show_icons=true&theme=vue#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/lasersPew#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=lasersPew&show_icons=true&theme=tokyonights#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
+
 ### 👋 Hi, I'm John Carlo Santos aka lasersPew, 15 years old, HS student and a developer.`
 - 👀 I’m interested in *Cloud and Clustered Computing*.
 - 🌱 I’m currently learning **Object-oriented Programming** and **Async Programming**.
