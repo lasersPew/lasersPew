@@ -52,10 +52,10 @@
 <div align='center'>
   <div>
     <a href= "https://github.com/lasersPew#gh-light-mode-only">
-      <img src= "https://count.chiya.dev/get/@lasersPew?theme=moebooru" alt="Github Counter" />
+      <img src= "https://count.getloli.com/@lasersPew?theme=moebooru" alt="Github Counter" />
     </a>
     <a href= "https://github.com/lasersPew#gh-dark-mode-only">
-      <img src= "https://count.chiya.dev/get/@lasersPew?theme=rule34" alt="Github Counter" />
+      <img src= "https://count.getloli.com/@lasersPew?theme=rule34" alt="Github Counter" />
     </a>
   </div>
   <div>
