@@ -1,7 +1,7 @@
 # 👋 Hi, I'm lasersPew, a developer.
 
-- 👀 I’m interested in *Cloud and Clustered Computing along with Orchestration*. I'm currently learning Go and Java! I would love it if I could get my hands on a [Raspberry Pi](https://raspberrypi.org)
-- 🌱 I’m currently learning **Android Development Too!**
+- 👀 I’m interested in *Cloud and Clustered Computing along with Orchestration*. I'm currently learning ~Go and Java~ React, still React JS (and NextJS too!) ~I would love it if I could get my hands on a [Raspberry Pi](https://raspberrypi.org)~ I did get Raspberry Pi... pico.
+- 🌱 I’m currently learning **~Android Development Too!~ ReactJS**
 
 
 ## Stuff I Use
@@ -14,8 +14,8 @@
     <a href= "https://sass-lang.com">
       <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg" alt="Sass Icon"/>
     </a>
-    <a href= "https://kotlinlang.org">
-      <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg" alt="Kotlin Icon"/>
+    <a href= "https://nextjs.org/">
+      <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" alt="NextJS Icon"/>
     </a>
     <a href= "https://www.linux.org">
       <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux Icon"/>
@@ -40,6 +40,9 @@
     </a>
     <a href= "https://ohmyz.sh">
       <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg" alt="Shell Icon"/>
+    </a>
+    <a href="https://www.docker.com/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" alt="Docker Icon"/>
     </a>
   </div>
 </div>
